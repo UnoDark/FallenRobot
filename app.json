@@ -1,7 +1,7 @@
 {
-      "name": "Fallen Robot",
+      "name": "Hinata Robot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://telegra.ph/file/72e135da30a1a349f2844.jpg",
+      "logo": "https://te.legra.ph/file/d1ccc90659b4d323ddf32.jpg",
       "keywords": [
          "telegram",
          "sexy",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/AnonymousBoy1025/FallenRobot",
+   "repository": "https://github.com/UnoDark/FallenRobot",
    "addons": [
       {
          "options": {
